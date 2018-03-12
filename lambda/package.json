@@ -1,0 +1,10 @@
+{
+  "name": "lambda",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Omar Sahyoun",
+  "license": "MIT",
+  "dependencies": {
+    "got": "^8.3.0"
+  }
+}
